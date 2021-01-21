@@ -1,5 +1,5 @@
 
-lista_zakupow = input("Proszę wpisać produkty do zapuku, oddzielając je przecinkiem: \n\n : ")
+lista_zakupow = input("Proszę wpisać produkty do zakupu, oddzielając je przecinkiem: \n\n : ")
 
 podzielona_lista_zak = lista_zakupow.split(",")
 
